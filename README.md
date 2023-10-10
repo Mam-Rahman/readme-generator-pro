@@ -3,7 +3,7 @@
 
   ### Description
 
-  A readme generator written in Node.js
+  A readme generator written with Node.js
 
   ### Table of Contents
 
@@ -29,7 +29,7 @@
 
   ## Usage
 
-  Have Node.js installed
+  Node version 16 or above
 
   ## License
 
@@ -37,7 +37,7 @@
 
   ## Contributing
 
-  fork
+  Pull request
 
   ## Tests
 
@@ -50,6 +50,6 @@
   ### Questions
 
   If you have any questions about the repo open an issue or contact me 
-  directly at mam@gmail.com.
+  directly at mamunurrah@gmail.com.
 
   You can find more of my work at [mam-rahman](https://github.com/mam-rahman).
