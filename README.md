@@ -3,7 +3,11 @@
 
   ### Description
 
-  A readme generator written with Node.js
+  A readme generator written with node.js
+
+  ### Link to walkthrough video
+
+  [Click here to play video](https://drive.google.com/file/d/1FH8YV1zyEjmeTQTbR9qbRfWkei1Mn6zP/view)
 
   ### Table of Contents
 
@@ -29,7 +33,7 @@
 
   ## Usage
 
-  Node version 16 or above
+  Node version above 16
 
   ## License
 
